@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["/* import client from \"./client\";\n\nconst register = (pushToken) =>\n  client.post(\"/expoPushTokens\", { token: pushToken });\n\nexport default {\n  register,\n};\n */\n"]},"metadata":{},"sourceType":"script"}
